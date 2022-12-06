@@ -1,7 +1,7 @@
 ### This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X, Loon)
 
 ![](https://raw.githubusercontent.com/mymoonyue/mymoonyue/master/assets/github-contribution-grid-snake.svg)
-[![YAOJIO's github stats](https://github-readme-stats.vercel.app/api?username=YAOJIO&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/YAOJIO)
+[![328902301's github stats](https://github-readme-stats.vercel.app/api?username=328902301&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/328902301)
 
 ### Hi there 👋
 
